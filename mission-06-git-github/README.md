@@ -19,11 +19,11 @@ Staging is a review area for selecting which changes go into the next snapshot. 
 
 ### Task 6.2 — Branch activity
 
-A branch is a separate line of work that can be changed without immediately changing `main`. Created the `update-about` branch and added the root README’s `My Learning` section. The branch is being published for review.
+A branch is a separate line of work that can be changed without immediately changing `main`. Created the `update-about` branch, added the root README’s `My Learning` section, and pushed the branch to GitHub for review.
 
 ### Task 6.3 — Pull Request
 
-A Pull Request (PR) asks for a branch's changes to be reviewed and considered for another branch. A Pull Request from `update-about` to `main` will be created after the branch is pushed, and its status will be recorded here.
+A Pull Request (PR) asks for a branch's changes to be reviewed and considered for another branch. Created Pull Request [#1](https://github.com/Anshika-Indu/digital-detective-8073/pull/1) from `update-about` into `main`. It is open and has not been merged.
 
 ### Task 6.4 — Git command glossary
 
