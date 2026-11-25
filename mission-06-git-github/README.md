@@ -63,4 +63,4 @@ Not applicable.
 
 ## 8. Commit details
 
-The Git workflow notes are on `main` in `Document Git commands and version control workflow`. The `My Learning` update is committed on `update-about` with `Add My Learning section to root README` and is being pushed.
+The Git workflow notes were committed on `main` with `Document Git commands and version control workflow`. The root README update was committed on `update-about` with `Add My Learning section to root README`. Pull Request #1 from `update-about` to `main` is open and has not been merged.
