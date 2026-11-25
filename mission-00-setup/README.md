@@ -15,7 +15,8 @@ The local mission structure and public GitHub repository `digital-detective-8073
 - `pwd` and `ls -la` — inspected the workspace.
 - `git init` — initialized the local repository.
 - `git add`, `git commit` and `git push` — selected, recorded and published the setup files.
-- `gh repo create` — created the public GitHub repository.
+- `gh repo clone` — cloned the existing public assignment repository.
+- `gh repo view` — confirmed that the repository is public.
 - GitHub CLI device sign-in — authenticated the GitHub command-line tool.
 
 ## 4. My understanding
