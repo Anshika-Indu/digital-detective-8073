@@ -34,3 +34,8 @@ python3 number_converter.py
 The missions covered how computers handle input and output, how Terminal and the operating system manage files and programs, and how Git and networks support everyday computing. A small Python converter also provided practice with binary and hexadecimal numbers and text encoding.
 
 Each mission has its own README and a dedicated Git commit. Completed mission commits are pushed to GitHub.
+## My Learning
+
+- I have practised using Terminal to inspect folders and manage practice files.
+- I understand that the operating system manages programs, memory, files and permissions.
+- I have run a Python number converter and used Git to record the mission work.
