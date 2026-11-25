@@ -19,7 +19,7 @@ Staging is a review area for selecting which changes go into the next snapshot. 
 
 ### Task 6.2 — Branch activity
 
-A branch is a separate line of work that can be changed without immediately changing `main`. The `update-about` branch will hold the root README’s `My Learning` section and will be pushed for review.
+A branch is a separate line of work that can be changed without immediately changing `main`. Created the `update-about` branch and added the root README’s `My Learning` section. The branch is being published for review.
 
 ### Task 6.3 — Pull Request
 
@@ -63,4 +63,4 @@ Not applicable.
 
 ## 8. Commit details
 
-The Git workflow notes are committed on `main` with `Document Git commands and version control workflow`. Branch and Pull Request details will be recorded after that activity is complete.
+The Git workflow notes are on `main` in `Document Git commands and version control workflow`. The `My Learning` update is committed on `update-about` with `Add My Learning section to root README` and is being pushed.
